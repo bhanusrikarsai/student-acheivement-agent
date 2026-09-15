@@ -1,0 +1,24 @@
+{
+  "name": "vfstr-student-achievement-agent",
+  "version": "1.0.0",
+  "description": "VFSTR Student Achievement Verification & Intelligence System (NAAC / NIRF / NBA)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "vfstr",
+    "student-achievements",
+    "naac",
+    "nirf",
+    "nba",
+    "verification-agent"
+  ],
+  "author": "VFSTR IQAC & Department of Computer Science and Engineering",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "private": true
+}
