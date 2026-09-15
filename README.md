@@ -110,7 +110,7 @@ RESEND_API_KEY=your_resend_api_key_here
 RESEND_FROM_EMAIL=onboarding@resend.dev
 
 # Administrative Service Token (Private - Kept strictly server-side)
-VFSTR_AUTH_TOKEN=your_vfstr_auth_token_here
+gemini_api_key=you_gemini_api_key
 ```
 
 ### 3. Launch the Server
